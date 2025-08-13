@@ -5,6 +5,7 @@ export default function About() {
     <Section
       id="about"
       title="About Me"
+      subtitle="A brief introduction to who I am and what I do."
     >
       <div className="grid md:grid-cols-[240px,1fr] gap-8 items-start">
         <div className="glass rounded-2xl p-3 ring-animated">
@@ -17,7 +18,7 @@ export default function About() {
         </div>
         <div className="max-w-none text-muted-foreground leading-relaxed space-y-4">
           <p>
-            I’m <span className="text-foreground font-semibold">Amaljith A A</span>, a Computer Science graduate and Web Developer specializing in the
+            I’m <span className="text-foreground font-semibold">Amaljith A A</span>, a B.Tech Computer Science graduate (2024) and Web Developer specializing in the
             <span className="text-foreground font-semibold"> MERN stack</span>.
             Currently, I work as a Technical Support Engineer at Mozilor Technologies, where I assist global customers in resolving product-related
             issues, optimizing WordPress performance, and ensuring a smooth, reliable user experience.

@@ -23,9 +23,11 @@ export default function Hero() {
                         I craft modern, performant web experiences with the MERN stack and WordPress. Explore my projects or reach out to collaborate.
                     </p>
                     <div className="flex flex-wrap gap-3 mb-8">
+                        <Badge variant="default">React.js</Badge>
                         <Badge variant="default">MERN Stack</Badge>
                         <Badge variant="default">WordPress</Badge>
-                        <Badge variant="default">React.js</Badge>
+                
+
                     </div>
                     <div className="flex flex-wrap gap-4">
                         <Button asChild variant="hero" size="lg" className="hover-scale">

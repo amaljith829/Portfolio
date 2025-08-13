@@ -11,7 +11,8 @@
     "build": "npm run build -w amaljith_a_a_portfolio",
     "preview": "npm run preview -w amaljith_a_a_portfolio",
     "lint": "npm run lint -w amaljith_a_a_portfolio"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.2.0"
   }
 }
-
-

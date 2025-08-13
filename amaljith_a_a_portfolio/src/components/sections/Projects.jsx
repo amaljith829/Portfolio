@@ -21,7 +21,7 @@ const projects = [
         title: "Portfolio Website",
         description: "A portfolio website to showcase my projects and skills.",
         tech: ["React", "Tailwind CSS", "Shadcn UI", "Vite"],
-        link: "https://github.com/amaljith829/Portfolio-Website",
+        link: "https://github.com/amaljith829/Portfolio",
     },  
     {
         title: "Content Management System",

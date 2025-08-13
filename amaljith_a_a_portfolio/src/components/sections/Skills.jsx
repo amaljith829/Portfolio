@@ -4,12 +4,10 @@ import { Bar, BarChart, CartesianGrid, ResponsiveContainer, XAxis, YAxis, Toolti
 const data = [
   { skill: "HTML/CSS", level: 90 },
   { skill: "JavaScript", level: 80 },
-  { skill: "React.js", level: 75 },
-  { skill: "WordPress", level: 75 },
-  { skill: "Node.js", level: 70 },
+  { skill: "React.js", level: 70 },
+  { skill: "Node.js", level: 65 },
   { skill: "Express", level: 65 },
   { skill: "MongoDB", level: 70 },
-  { skill: "Git", level: 80 },
 ];
 
 export default function Skills() {
