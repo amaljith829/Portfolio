@@ -1,0 +1,17 @@
+{
+  "name": "portfolio-root",
+  "private": true,
+  "workspaces": [
+    "amaljith_a_a_portfolio"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w amaljith_a_a_portfolio",
+    "dev:ipv4": "npm run dev -w amaljith_a_a_portfolio -- --host 127.0.0.1 --port 8080",
+    "start": "npm run dev",
+    "build": "npm run build -w amaljith_a_a_portfolio",
+    "preview": "npm run preview -w amaljith_a_a_portfolio",
+    "lint": "npm run lint -w amaljith_a_a_portfolio"
+  }
+}
+
+
