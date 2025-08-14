@@ -44,7 +44,7 @@ export default function Hero() {
                      <div className="relative aspect-square rounded-3xl shadow-glow bg-card overflow-hidden">
                         <div className="absolute inset-0 bg-gradient-primary opacity-10" aria-hidden="true" />
                          <div className="h-full w-full flex items-center justify-center">
-                             <img src="images/your-new-image.jpg" alt="Portrait of Amaljith A A, MERN & WordPress Web Developer" loading="lazy" className="h-40 w-40 md:h-56 md:w-56 rounded-full object-cover object-center shadow-elegant" />
+                             <img src="images/20250316_130219.jpg" alt="Portrait of Amaljith A A, MERN & WordPress Web Developer" loading="lazy" className="h-40 w-40 md:h-56 md:w-56 rounded-full object-cover object-center shadow-elegant" />
                         </div>
                     </div>
 
